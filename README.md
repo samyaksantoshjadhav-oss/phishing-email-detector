@@ -1,17 +1,17 @@
 # Phishing Email Detector
 
-A cybersecurity-based web application that detects phishing emails using machine learning and suspicious content analysis. This project helps users identify potentially harmful emails by analyzing email text, suspicious keywords, links, and phishing patterns.
+A cybersecurity-based web application that detects phishing emails using machine learning and suspicious content analysis. The project helps users identify harmful or suspicious emails by analyzing email content and phishing patterns.
 
 ---
 
 ## Features
 
-* Detects phishing and suspicious emails
-* Machine learning-based prediction system
+* Phishing email detection
 * Suspicious keyword analysis
+* Machine learning-based prediction
+* Fast email scanning
 * User-friendly interface
-* Fast email scanning and analysis
-* Displays prediction results instantly
+* Instant result display
 
 ---
 
@@ -29,11 +29,11 @@ A cybersecurity-based web application that detects phishing emails using machine
 
 ---
 
-## How It Works
+## How the Project Works
 
 1. User enters email content into the system
-2. The application processes the text
-3. Machine learning model analyzes phishing patterns
+2. The application processes the email text
+3. The machine learning model analyzes phishing patterns
 4. The system predicts whether the email is:
 
    * Safe
@@ -42,7 +42,7 @@ A cybersecurity-based web application that detects phishing emails using machine
 
 ---
 
-## Installation
+## Installation and Setup
 
 Clone the repository:
 
@@ -50,19 +50,19 @@ Clone the repository:
 git clone https://github.com/samyaksantoshjadhav-oss/phishing-email-detector.git
 ```
 
-Go to project folder:
+Go to the project directory:
 
 ```bash
 cd phishing-email-detector
 ```
 
-Install dependencies:
+Install required dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Run the project:
+Run the application:
 
 ```bash
 python app.py
@@ -72,18 +72,18 @@ python app.py
 
 ## Project Objective
 
-The main objective of this project is to improve awareness and protection against phishing attacks by providing a simple and effective phishing email detection system.
+The objective of this project is to spread awareness about phishing attacks and provide a simple AI-powered solution for detecting malicious emails.
 
 ---
 
 ## Future Improvements
 
 * Real-time email scanning
-* Browser extension integration
+* Browser extension support
 * Advanced AI detection model
-* Dark mode interface
-* URL reputation checking
+* URL reputation analysis
 * Email attachment scanning
+* Dark mode interface
 
 ---
 
