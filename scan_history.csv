@@ -1,0 +1,11 @@
+time,sender,subject,risk,score,phishing_prob,legit_prob,prediction,domain_flag,keyword_flag,link_flag,ptype,conf_label,conf
+2026-03-23 15:21:53,samyakjadhav1817@gmail.com,URGENT: Your Account Has Been Suspended,HIGH,88.2199062612477,78.2199062612477,21.78009373875229,1,0,1,1,Banking / Credential Phishing,HIGH,28.22
+2026-03-23 15:53:21,lottery@win-big-now.com,Congratulations! You Won a Cash Prize,HIGH,83.89702529168719,68.89702529168719,31.10297470831281,1,1,1,0,Prize / Lottery Scam,MODERATE,18.9
+2026-03-24 10:31:05,lottery@win-big-now.com,Congratulations! You Won a Cash Prize,HIGH,83.89702529168719,68.89702529168719,31.10297470831281,1,1,1,0,Prize / Lottery Scam,MODERATE,18.9
+2026-03-24 11:00:33,lottery@win-big-now.com,Congratulations! You Won a Cash Prize,HIGH,83.89702529168719,68.89702529168719,31.10297470831281,1,1,1,0,Prize / Lottery Scam,MODERATE,18.9
+2026-03-24 12:13:04,lottery@win-big-now.com,Congratulations! You Won a Cash Prize,HIGH,83.89702529168719,68.89702529168719,31.10297470831281,1,1,1,0,Prize / Lottery Scam,MODERATE,18.9
+2026-04-17 20:23:34,hr@company.com,Interview Schedule Confirmation,LOW,21.45646047902461,16.45646047902461,83.5435395209754,0,0,0,1,General Email Phishing,HIGH,33.54
+2026-04-17 20:23:57,hr@company.com,Interview Schedule Confirmation,LOW,20.93534177670297,15.935341776702971,84.06465822329703,0,0,0,1,General Email Phishing,HIGH,34.06
+2026-04-17 20:27:44,hr@company.com,Interview Schedule Confirmation,LOW,21.919586148727053,16.919586148727053,83.08041385127295,0,0,0,1,General Email Phishing,HIGH,33.08
+2026-04-19 20:43:05,hr@company.com,Interview Schedule Confirmation,LOW,13.272481740210656,13.272481740210656,86.72751825978935,0,0,0,0,General Email Phishing,HIGH,36.73
+2026-04-19 20:45:22,security@bank-alerts.co,Urgent Account Verification Required,HIGH,100.0,81.86599655499084,18.13400344500916,1,1,1,1,Mass Email Phishing,HIGH,31.87
